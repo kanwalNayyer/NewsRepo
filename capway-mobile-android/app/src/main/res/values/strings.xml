@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="build_number">1.1.0</string>
+    <string name="something_wrong_internet">Something went wrong</string>
+    <string name="internet_failure_error">Network connection error</string>
+    <string name="see_more"><u>See More</u></string>
+</resources>
+
+
+
+
